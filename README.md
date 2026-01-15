@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>AutoCAD Automation using Python</b>
-  - [V-Draft](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [V-Draft](https://github.com/vaibhavnaik1998/V-DRAFT)
 
 
 <h2> 🤳 Connect with me:</h2>
